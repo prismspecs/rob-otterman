@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+a* {
+  color:#aaa;
+}
 body {
   background-color:#fff;
 }
